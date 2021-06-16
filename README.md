@@ -1,5 +1,7 @@
 ### Hi there 👋, I'am sajjad noowdeh
 #### Front Developer
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadnoowdeh)](https://github.com/anuraghazra/github-readme-stats)
+
 ## SKILLS
 * ⚛️ learning React
 * 🖥 HTML/CSS/JS/JQURY/BOOTSTRAP/TYPESCRIPT
@@ -15,4 +17,3 @@ Skills: TypeScript/ REACT / JS/JQURY / HTML / CSS
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadnoowdeh)](https://github.com/anuraghazra/github-readme-stats)
