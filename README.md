@@ -4,13 +4,12 @@
 
 ## SKILLS
 * ⚛️ learning React
-* 🖥 HTML/CSS/JS/JQURY/BOOTSTRAP/TYPESCRIPT
+* 🖥 HTML/CSS/SASS/JS/JQURY/BOOTSTRAP/TYPESCRIPT
 
 
 I’m sajjadnoowdeh and I do  Design and programming, I realy onjoy languages && freamworks like Bootstrap and React.js and currently learning React.js and Express and i enjoy ui,ux website ,also you can check my Linkedin 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadnoowdeh)](https://github.com/anuraghazra/github-readme-stats)
-Skills: TypeScript/ REACT / JS/JQURY / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
