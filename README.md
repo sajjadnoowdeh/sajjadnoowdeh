@@ -10,6 +10,8 @@ I’m sajjadnoowdeh and I do  Design and programming, I realy onjoy languages &&
 * ⚛️ learning React
 * 🖥 HTML/CSS/SASS/JS/JQURY/BOOTSTRAP/TYPESCRIPT
 
+<img src="responsive.gif">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadnoowdeh)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on this page. 
