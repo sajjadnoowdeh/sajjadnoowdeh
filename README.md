@@ -12,7 +12,7 @@ I’m sajjadnoowdeh and I do  Design and programming, I realy onjoy languages &&
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadnoowdeh&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadnoowdeh&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajjadnoowdeh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sasha_n91/)  
 
 - 🔭 I’m currently working on this page. 
 
