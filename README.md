@@ -16,7 +16,7 @@ I’m sajjadnoowdeh and I do  Design and programming, I realy onjoy languages &&
 ## Examples of Work
 <img src="responsive.gif">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadnoowdeh&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadnoowdeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadnoowdeh&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadnoowdeh&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on this page. 
