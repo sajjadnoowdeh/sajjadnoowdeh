@@ -11,7 +11,7 @@ I’m sajjadnoowdeh and I do  Design and programming, I realy onjoy languages &&
 <img src="css.png">
 <img src="typescipt.png">
 <img src="bootstrap.jpg">
-<img src="jq.png">
+<img src="jq.jpg">
 <img src="sass.png">
 ## Examples of Work
 <img src="responsive.gif">
