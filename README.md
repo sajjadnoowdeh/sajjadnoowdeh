@@ -6,7 +6,7 @@
 * ⚛️ learning React
 * 🖥 HTML/CSS/SASS/JS/JQURY/BOOTSTRAP/TYPESCRIPT
 
-#sajjad noowdeh
+# sajjad noowdeh
 I’m sajjadnoowdeh and I do  Design and programming, I realy onjoy languages && freamworks like Bootstrap and React.js and currently learning React.js and Express and i enjoy ui,ux website ,also you can check my Linkedin 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadnoowdeh)](https://github.com/anuraghazra/github-readme-stats)
