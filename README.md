@@ -7,9 +7,9 @@
 I’m sajjadnoowdeh and I do  Design and programming, I realy onjoy languages && freamworks like Bootstrap and React.js and currently learning React.js and Express and i enjoy ui,ux website ,also you can check my Linkedin 
 
 ## SKILLS
-<img width="20" src="react.png">
-<img width="20"  src="css.png">
-<img width="20"  src="typescipt.png">
+<img width="20" src="react.png"> <img width="20"  src="css.png">
+
+<img width="20"  src="typescript.png">
 <img width="20"  src="bootstrap.png">
 <img width="20"  src="jq.png">
 <img width="20"  src="sass.png">
