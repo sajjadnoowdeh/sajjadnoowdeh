@@ -15,6 +15,7 @@ I’m sajjadnoowdeh and I do  Design and programming, I realy onjoy languages &&
 ## Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajjadnoowdeh) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sasha_n91/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.com.svg' alt='linkedin' height='40'>](www.linkedin.com/in/sajjad-noowdeh-024896216)  
 
 - 🔭 I’m currently working on this page. 
 
