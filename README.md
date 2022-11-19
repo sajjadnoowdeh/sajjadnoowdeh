@@ -9,7 +9,7 @@ and progressing with JavaScript and React skills as well as the ability to
 communicate effectively in a team environment.
 
 ## SKILLS
-<img width="90" src="react.png"> <img width="90" src="js.png">  <img width="90"  src="css.png"> <img width="80"  src="typescript.png"> <img width="90"  src="bootstrap.jpg"> <img width="90"  src="jq.png"> <img width="90"  src="sass.png"> <img width="90"  src="logo.png"> <img width="90"  src="cypress.jpg"> <img width="90"  src="nextjs.png">  <img width="90" src="pwa1.png" />
+<img width="90" src="react.png"> <img width="90" src="js.png">  <img width="90"  src="css.png"> <img width="80"  src="typescript.png"> <img width="90"  src="bootstrap.jpg"> <img width="90"  src="jq.png"> <img width="90"  src="sass.png"> <img width="90"  src="logo.png"> <img width="90"  src="cypress.jpg"> <img width="90"  src="nextjs.png">  <img width="90" src="pwa1.png" />  <img width="90" src="native.png" />
 
 
 
